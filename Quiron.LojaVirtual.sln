@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiron.LojaVirtual.Dominio", "Quiron.LojaVirtual.Dominio\Quiron.LojaVirtual.Dominio.csproj", "{3788148D-FF78-4754-A60D-22320A795C2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quilron.LojaVirtual.Web", "Quilron.LojaVirtual.Web\Quilron.LojaVirtual.Web.csproj", "{57EFB461-EE9B-42B5-9765-49AC619CA03D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiron.LojaVirtual.Web", "Quilron.LojaVirtual.Web\Quiron.LojaVirtual.Web.csproj", "{57EFB461-EE9B-42B5-9765-49AC619CA03D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiron.LojaVirtual.UnitTest", "Quiron.LojaVirtual.UnitTest\Quiron.LojaVirtual.UnitTest.csproj", "{267F5F84-B432-4309-A0EC-5136CE00ED4B}"
 EndProject

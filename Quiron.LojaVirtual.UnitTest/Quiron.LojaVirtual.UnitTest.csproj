@@ -82,9 +82,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Quilron.LojaVirtual.Web\Quilron.LojaVirtual.Web.csproj">
+    <ProjectReference Include="..\Quilron.LojaVirtual.Web\Quiron.LojaVirtual.Web.csproj">
       <Project>{57efb461-ee9b-42b5-9765-49ac619ca03d}</Project>
-      <Name>Quilron.LojaVirtual.Web</Name>
+      <Name>Quiron.LojaVirtual.Web</Name>
     </ProjectReference>
     <ProjectReference Include="..\Quiron.LojaVirtual.Dominio\Quiron.LojaVirtual.Dominio.csproj">
       <Project>{3788148d-ff78-4754-a60d-22320a795c2e}</Project>
